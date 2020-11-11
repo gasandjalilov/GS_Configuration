@@ -1,4 +1,6 @@
 spring:
+  applicaion:
+    name: firebase-service
   jpa:
     hibernate:
       ddl-auto: create
